@@ -45,7 +45,7 @@ Uygulama, kullanıcıların Pomodoro tekniği veya özel sürelerle odaklanma se
 Kodlar temiz, modüler ve yeniden kullanılabilir bileşen mantığına göre düzenlenmiştir:
 
 ```text
-MobilOdev/
+FocusTracker/
 ├── app/
 │   ├── (tabs)/
 │   │   ├── index.tsx      # Ana Sayfa (Sayaç, AppState ve Kontroller)
@@ -67,12 +67,12 @@ Projeyi bilgisayarınıza indirmek ve gerekli kütüphaneleri yüklemek için te
 Önce projeyi bilgisayarınıza çekin:
 
 ```bash
-git clone https://github.com/Egebo/MobilOdev.git
+git clone https://github.com/Egebo/FocusTracker.git
 ```
 ### 2. Proje Klasörüne Girin
 
 ```bash
-cd MobilOdev
+cd FocusTracker
 ```
 
 ### 3. Paketleri Yükleyin
